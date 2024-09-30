@@ -1,1 +1,1 @@
-FILE_PATH = "https://youtu.be/-BkvScHgMAk?list=RD-BkvScHgMAk"
+FILE_PATH = "your_video_url_here"
